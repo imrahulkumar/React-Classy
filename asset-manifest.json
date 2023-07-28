@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Classy/static/css/main.073c9b0a.css",
+    "main.js": "/React-Classy/static/js/main.859384bd.js",
+    "static/js/787.66c235e6.chunk.js": "/React-Classy/static/js/787.66c235e6.chunk.js",
+    "static/media/logo.svg": "/React-Classy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Classy/index.html",
+    "main.073c9b0a.css.map": "/React-Classy/static/css/main.073c9b0a.css.map",
+    "main.859384bd.js.map": "/React-Classy/static/js/main.859384bd.js.map",
+    "787.66c235e6.chunk.js.map": "/React-Classy/static/js/787.66c235e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.859384bd.js"
+  ]
+}
